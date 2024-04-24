@@ -1,0 +1,21 @@
+body{
+    background-color: lightgrey;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 5px solid pink;
+    margin: 30px;
+    padding: 50px;
+}
+
+div{
+    text-align: center;
+}
+
+ol{
+    text-align: center;
+    list-style-position: inside;
+}
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
